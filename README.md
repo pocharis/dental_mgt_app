@@ -16,3 +16,6 @@ interacting classes described above. The GUI should incorporate functionality th
     • Add details of patients who wish to arrange appointments; 
     • View, and manage a list of available treatments and check-ups, a list of patients, and a list of currently arranged appointments; 
     • Sort appointments according to several specified criteria. 
+
+An overview of the app interface:
+![alt text](https://github.com/pocharis/dental_mgt_app/blob/master/dentist3.PNG?raw=true)
